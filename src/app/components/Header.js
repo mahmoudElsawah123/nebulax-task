@@ -3,9 +3,9 @@ import React from "react";
 const Header = () => {
   return (
     <header className="absolute top-0 left-0 right-0 p-6">
-      <nav className="flex justify-between items-center max-w-7xl mx-auto">
+      <nav className="flex justify-between items-center max-w-7xl mx-auto flex-wrap">
         <div className="text-2xl font-bold text-primary-foreground">Logo</div>
-        <div className="space-x-4">
+        <div className="md:space-x-4 space-x-1">
           <button className="nav-button bg-transparent text-gray-600 hover:text-gray-900;">
             Login
           </button>

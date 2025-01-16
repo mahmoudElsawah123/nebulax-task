@@ -6,7 +6,7 @@ const Contact = () => {
   return (
     <>
       <div className="max-w-7xl mx-auto grid lg:grid-cols-2 gap-12 items-center mt-10">
-        <div className="w-[80%] mx-auto mt-10 p-5 bg-white shadow-lg rounded-2xl">
+        <div className="md:w-[80%] w-full mx-auto mt-10 p-5 bg-white shadow-lg rounded-2xl">
           <h2 className="text-3xl font-bold text-center mb-10">Write Us</h2>
 
           <div className="max-w-md mx-auto space-y-6">

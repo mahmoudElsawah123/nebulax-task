@@ -62,7 +62,7 @@ const ProductOffer = () => {
                 height={200}
                 loading="lazy"
               />
-              <div className="relative w-full h-full">
+              <div className="relative w-full h-full hidden md:block">
                 <div className="absolute bottom-5 bg-white shadow-lg p-2 rounded-lg">
                   <p className="text-sm mb-1">Beats HeadPhone</p>
                   <hr className="border-gray-300 mb-1" />
