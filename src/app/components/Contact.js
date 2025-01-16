@@ -36,7 +36,7 @@ const Contact = () => {
           </div>
         </div>
 
-        <div className="relative lg:h-[600px]">
+        <div className="relative lg:h-[600px] hidden md:block">
           <Image
             src={HumanImage}
             alt="Business Growth"

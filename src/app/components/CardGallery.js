@@ -4,8 +4,6 @@ import { Card } from "flowbite-react";
 
 // Import fashion images
 import FashionImage1 from "/public/establishing-shot-stylish-apartment-with-comfortable-bed-rezidential-area.jpg";
-import FashionImage2 from "/public/excited-young-woman-listening-to-music-on-wireless-royalty-free-image-1718298978.avif";
-import FashionImage3 from "/public/images (1).jpeg";
 
 // Data array for fashion images
 const fashionData = [
@@ -15,12 +13,12 @@ const fashionData = [
     desc: "It is a long established fact that a reader will be distracted by the readable content of a page.",
   },
   {
-    image: FashionImage2,
+    image: FashionImage1,
     title: "Fashion Store 2",
     desc: "It is a long established fact that a reader will be distracted by the readable content of a page.",
   },
   {
-    image: FashionImage3,
+    image: FashionImage1,
     title: "Fashion Store 3",
     desc: "It is a long established fact that a reader will be distracted by the readable content of a page.",
   },
